@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        p{
+            font-size: larger;
+            color: blue;
+        }
+        h1{
+           
+            font-size:xx-large ;
+            color:red; 
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home page</title>
+</head>
+<body>
+    <h1><u>HOME PAGE</u></h1>
+    <hr>
+    <p>this is the main page</p>
+    <hr>
+    <a href="edu.html">EDUCATION</a>
+    <hr>
+    <a href="exper.html">EXPERIENCE</a>
+    <hr>
+    <a href="pro.html">PROJECTS</a>
+</body>
+</html>
