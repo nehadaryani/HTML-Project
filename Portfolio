@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        header{
+    color: blueviolet;
+    text-align: center;
+    font-style: oblique;
+}
+main{
+    color:red;
+    text-align: center;
+    font-style: normal;
+    font-size: x-large;
+}
+footer{
+    font-size: xx-large;
+    color: deeppink;
+    font-style: italic;
+    text-align: center;
+}
+body{
+    background-image: url("https://img.freepik.com/premium-photo/bookworms-haven-flat-lay-illustration-generative-ai_549702-707.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>header>
+    <h1><u><b>MY PORTFOLIO</b></u></h1>
+</header>
+<main>
+    <pre>
+
+
+
+        1.Name:Neha Daryani
+        2.Experience:Software Developer Intern.
+        3.Degree:B.Tech in Computer Science.
+        4.Domain:Web Development
+        5.Strengths:Strong Interpersonal skills,Communication Skills,
+        Leadership Skills and many more.
+    
+
+    
+    
+    
+    
+    
+    
+    </pre>
+</main>
+<footer>
+    <pre>
+        <u>For more details you can contact:nehadaryani18@gmail.com</u>
+    </pre>
+                        
+</footer>
+</body>
+</html>
