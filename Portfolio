@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
     <style>
+        h1{
+            text-align: center;
+            color: aqua;
+        }
         header{
     color: blueviolet;
     text-align: center;
@@ -48,7 +52,7 @@ body{
     
     
     
-    
+<a href="https://www.linkedin.com/in/neha-daryani-638a65238/"><img src="photo.jpeg" height="200" width="200"></a>
     
     
     </pre>
@@ -57,7 +61,7 @@ body{
     <pre>
         <u>For more details you can contact:nehadaryani18@gmail.com</u>
     </pre>
-                        
+                       
 </footer>
 </body>
 </html>
